@@ -9,7 +9,7 @@ header:
     - label: "Button"
       url: "/sample/"
 excerpt: " "
-intro:
+intro: Park Jihoon
   - excerpt: ""
 ---
 
